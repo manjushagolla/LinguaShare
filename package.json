@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "google-translate-api-browser": "^5.0.0",
+    "multer": "^2.0.2",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^24.14.0"
+  }
+}
